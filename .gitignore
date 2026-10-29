@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Reproduction outputs
+reproduced/
+ML_Assignment_2_reproduced.ipynb
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
